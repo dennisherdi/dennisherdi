@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dennisherdi
+- 👋 Hi, I’m Dennis 
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me dennisherdi16@gmail.com
