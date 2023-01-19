@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dennis 
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data
 - 📫 How to reach me dennisherdi16@gmail.com
 
 <!---
